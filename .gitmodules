@@ -1,0 +1,6 @@
+[submodule "junction2018_spark_ar"]
+	path = junction2018_spark_ar
+	url = git@github.com:kgorecki/junction2018_spark_ar.git
+[submodule "junction2018_server"]
+	path = junction2018_server
+	url = git@github.com:kgorecki/junction2018_server.git
